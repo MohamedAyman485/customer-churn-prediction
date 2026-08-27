@@ -1,17 +1,8 @@
 # 📡 Telecom Customer Churn Prediction
 
-## 📌 Project Overview
+[🚀 Live Demo](https://customer-churn-prediction-w9ottwhoastenkvhpa6a8t.streamlit.app/)
 
-Customer churn is a major challenge for telecom companies. Losing customers can be costly, especially when the company could have identified at-risk customers early and taken preventive action.
-
-This project builds a machine learning solution to predict which telecom customers are likely to churn.
-
-Two classification models were developed and compared:
-
-- 🌲 Random Forest
-- 🚀 XGBoost
-
-The models were trained using the same dataset, preprocessing pipeline, feature selection approach, and train/test split to ensure a fair comparison.
+An end-to-end machine learning project that predicts telecom customer churn using **Random Forest** and **XGBoost**, with XGBoost selected as the final production model.
 
 ---
 
